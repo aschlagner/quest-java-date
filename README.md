@@ -17,11 +17,11 @@ Concatenates texts _"The date is: "_ and _"The day of week is:"_ in front of the
 
 Expected outcome :
 
-$ Please fill a day (1-31) :
-$ 22
-$ Please fill a month (1-12) :
-$ 4
-$ Please fill a year :
-$ 2019
-$ The date is : 04-22-2019
-$ The day of week is : 2
+    Please fill a day (1-31) :
+    22
+    Please fill a month (1-12) :
+    4
+    Please fill a year :
+    2019
+    The date is : 04-22-2019
+    The day of week is : 2
